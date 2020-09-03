@@ -1,6 +1,4 @@
-# CoreDataDemo
-
-# Overview
+# CoreDataDemo Overview
 An App with Basic Core Data feature, can save the data and sort by Name in Ascending (A-Z)
 
 # Story Behind
